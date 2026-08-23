@@ -1,0 +1,98 @@
+{
+  "PKM-001": {
+    "name": "Pikachu VMAX",
+    "category": "kartu",
+    "price": 185000,
+    "stock": 12,
+    "desc": "Kartu Pokémon TCG original, kondisi Near Mint.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png"
+  },
+  "PKM-002": {
+    "name": "Charizard Figure",
+    "category": "figur",
+    "price": 320000,
+    "stock": 5,
+    "desc": "Figur PVC 15cm, detail tinggi, official licensed.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png"
+  },
+  "PKM-003": {
+    "name": "Eevee Plush 30cm",
+    "category": "plush",
+    "price": 165000,
+    "stock": 20,
+    "desc": "Boneka lembut resmi Pokémon Center style.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/133.png"
+  },
+  "PKM-004": {
+    "name": "Mewtwo EX Card",
+    "category": "kartu",
+    "price": 275000,
+    "stock": 3,
+    "desc": "Kartu rare, foil, kondisi Excellent.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png"
+  },
+  "PKM-005": {
+    "name": "Gengar Keychain",
+    "category": "aksesoris",
+    "price": 45000,
+    "stock": 35,
+    "desc": "Gantungan kunci metal + acrylic.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
+  },
+  "PKM-006": {
+    "name": "Bulbasaur Plush",
+    "category": "plush",
+    "price": 145000,
+    "stock": 0,
+    "desc": "Plush 25cm, super soft, sold out sementara.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png"
+  },
+  "PKM-007": {
+    "name": "Lucario Figure",
+    "category": "figur",
+    "price": 289000,
+    "stock": 8,
+    "desc": "Figur articulated 12cm, pose dinamis.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png"
+  },
+  "PKM-008": {
+    "name": "Umbreon V Card",
+    "category": "kartu",
+    "price": 210000,
+    "stock": 7,
+    "desc": "Full Art V card, holographic.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png"
+  },
+  "PKM-009": {
+    "name": "Pokéball Mug",
+    "category": "aksesoris",
+    "price": 89000,
+    "stock": 15,
+    "desc": "Mug keramik 350ml, desain Pokéball.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png"
+  },
+  "PKM-010": {
+    "name": "Snorlax Plush XL",
+    "category": "plush",
+    "price": 385000,
+    "stock": 4,
+    "desc": "Boneka jumbo 50cm, cocok untuk hadiah.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
+  },
+  "PKM-011": {
+    "name": "Greninja Figure",
+    "category": "figur",
+    "price": 265000,
+    "stock": 6,
+    "desc": "Figur ninja pose, quality paint.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
+  },
+  "PKM-012": {
+    "name": "Psyduck Sticker Pack",
+    "category": "aksesoris",
+    "price": 25000,
+    "stock": 50,
+    "desc": "Set 12 sticker vinyl waterproof.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
+  }
+}
