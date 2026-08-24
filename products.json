@@ -34,7 +34,7 @@
     "name": "Gengar Keychain",
     "category": "aksesoris",
     "price": 45000,
-    "stock": 35,
+    "stock": 0,
     "desc": "Gantungan kunci metal + acrylic.",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png"
   },
@@ -50,23 +50,23 @@
     "name": "Lucario Figure",
     "category": "figur",
     "price": 289000,
-    "stock": 8,
+    "stock": 0,
     "desc": "Figur articulated 12cm, pose dinamis.",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/448.png"
   },
   "PKM-008": {
-    "name": "Umbreon V Card",
+    "name": "ar random",
     "category": "kartu",
-    "price": 210000,
-    "stock": 7,
-    "desc": "Full Art V card, holographic.",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/197.png"
+    "price": 35000,
+    "stock": 4,
+    "desc": "art rare random.",
+    "image": "https://th.bing.com/th/id/OIP.30A55G7dWRZ04tuvkO5kNQAAAA?w=132&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
   },
   "PKM-009": {
     "name": "Pokéball Mug",
     "category": "aksesoris",
     "price": 89000,
-    "stock": 15,
+    "stock": 0,
     "desc": "Mug keramik 350ml, desain Pokéball.",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png"
   },
@@ -74,7 +74,7 @@
     "name": "Snorlax Plush XL",
     "category": "plush",
     "price": 385000,
-    "stock": 4,
+    "stock": 0,
     "desc": "Boneka jumbo 50cm, cocok untuk hadiah.",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png"
   },
@@ -82,7 +82,7 @@
     "name": "Greninja Figure",
     "category": "figur",
     "price": 265000,
-    "stock": 6,
+    "stock": 0,
     "desc": "Figur ninja pose, quality paint.",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png"
   },
@@ -90,7 +90,7 @@
     "name": "Psyduck Sticker Pack",
     "category": "aksesoris",
     "price": 25000,
-    "stock": 50,
+    "stock": 0,
     "desc": "Set 12 sticker vinyl waterproof.",
     "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png"
   }
